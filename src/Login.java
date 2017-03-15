@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Samudra~
+ * @author Alfan
  */
 public class Login extends javax.swing.JFrame {
 
@@ -79,7 +79,7 @@ public class Login extends javax.swing.JFrame {
         getContentPane().add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 220, 100, -1));
         getContentPane().add(txtpass, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 160, 190, 30));
 
-        jPanel1.setBackground(new java.awt.Color(102, 255, 102));
+        jPanel1.setBackground(new java.awt.Color(255, 0, 255));
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(-10, -10, 420, 320));
 
         setSize(new java.awt.Dimension(416, 339));

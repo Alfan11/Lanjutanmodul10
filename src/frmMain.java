@@ -23,7 +23,7 @@ import sun.util.logging.PlatformLogger;
 
 /**
  *
- * @author Samudra~
+ * @author Alfan
  */
 public class frmMain extends javax.swing.JFrame {
     String nol_jam = "";
@@ -114,7 +114,7 @@ public class frmMain extends javax.swing.JFrame {
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 870, 80));
 
-        jPanel2.setBackground(new java.awt.Color(102, 255, 102));
+        jPanel2.setBackground(new java.awt.Color(204, 0, 204));
         jPanel2.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
         jPanel2.add(txtNIS, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 30, 110, -1));
@@ -172,7 +172,7 @@ public class frmMain extends javax.swing.JFrame {
 
         getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 130, 230, 450));
 
-        jPanel3.setBackground(new java.awt.Color(102, 255, 102));
+        jPanel3.setBackground(new java.awt.Color(204, 0, 204));
         jPanel3.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel3.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
@@ -206,7 +206,7 @@ public class frmMain extends javax.swing.JFrame {
 
         getContentPane().add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 150, 610, 430));
 
-        jPanel4.setBackground(new java.awt.Color(102, 255, 102));
+        jPanel4.setBackground(new java.awt.Color(204, 0, 204));
         jPanel4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel4.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
@@ -216,7 +216,7 @@ public class frmMain extends javax.swing.JFrame {
 
         getContentPane().add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 90, 230, 40));
 
-        jPanel5.setBackground(new java.awt.Color(102, 255, 102));
+        jPanel5.setBackground(new java.awt.Color(204, 0, 204));
         jPanel5.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel5.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 

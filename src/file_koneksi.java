@@ -9,7 +9,7 @@ import java.sql.SQLException;/*
 
 /**
  *
- * @author Samudra~
+ * @author Alfan
  */
 public class file_koneksi {
     private static Connection koneksi;

@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Samudra~
+ * @author Alfan
  */
 public class KoneksiDB {
 
